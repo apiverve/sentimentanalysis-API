@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/sentimentanalysis",
+  "version": "1.0.0",
+  "description": "Sentiment Analysis is a simple tool for analyzing the sentiment of a text. It returns the sentiment score and the sentiment label.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/sentimentanalysis-API.git"
+  },
+  "keywords": [
+    "sentiment analysis"," sentiment analysis api"," sentiment analysis tool"," sentiment analysis software"," sentiment analysis service"," sentiment analysis library"," sentiment analysis sdk"," sentiment analysis code"," sentiment analysis script"," sentiment analysis program"," sentiment analysis application"," sentiment analysis app"," sentiment analysis utility"," sentiment analysis helper"," sentiment analysis helper tool"," sentiment analysis helper software"," sentiment analysis helper service"," sentiment analysis helper library"," sentiment analysis helper sdk"," sentiment analysis helper code"," sentiment analysis helper script"," sentiment analysis helper program"," sentiment analysis helper application"," sentiment analysis helper app"," sentiment analysis helper tool"," sentiment analysis helper utility"," sentiment analysis helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/sentimentanalysis-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/sentimentanalysis-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
