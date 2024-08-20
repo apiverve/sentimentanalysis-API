@@ -79,7 +79,8 @@ api.execute(query, function (error, data) {
     ],
     "sentimentText": "positive",
     "sentiment": 3
-  }
+  },
+  "code": 200
 }
 ```
 
